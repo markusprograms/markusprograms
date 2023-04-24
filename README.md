@@ -1,4 +1,7 @@
 <h1 align = "center"><i>Infinite coder (@markusprograms)</i></h1>
+<p align = "center">
+ <img src = "https://user-images.githubusercontent.com/131605571/233996110-20a5873d-2724-4f00-bdd9-1f96d7550b82.gif" width = "25%">
+</p>
 <b>Welcome to my profile</b>! My username is Infinite coder and I'm interested in coding: <br>
  • APIs<br>
  • Bots<br>
