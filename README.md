@@ -27,7 +27,7 @@ I program in: <br>
  
 <h1>My Github stats</h1>
 <p align = "center">
- <img src = "https://streak-stats.demolab.com/?user=markusprograms&theme=dark&background=00000000&ring=79FF97&fire=79FF97&currStreakNum=79FF97&currStreakLabel=79FF97">
+ <img src = "https://streak-stats.demolab.com/?user=markusprograms&theme=dark&background=00000000&ring=79FF97&fire=79FF97&currStreakNum=79FF97&currStreakLabel=79FF97&sideNums=BBBBBB&sideLabels=BBBBBB&currStreakNum=BBBBBB">
  <img src = "https://github-readme-stats.vercel.app/api?username=markusprograms&show_icons=true&theme=dark&bg_color=00000000">
 </p>
 <br>
