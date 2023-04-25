@@ -32,7 +32,7 @@ I program in: <br>
 </p>
 <br>
 <p align = "center">
- <img src = "https://komarev.com/ghpvc/?username=markusprograms&color=brightgreen&style=flat&label=Profile+views">
+ <a href="https://hits.sh/github.com/markusprograms/hits/"><img alt="Hits" src="https://hits.sh/github.com/markusprograms/hits.svg?label=Profile%20views"/></a>
 </p>
 <!--
 **markusprograms/markusprograms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
