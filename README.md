@@ -30,8 +30,16 @@ I program in: <br>
  
 <h1>My Github stats</h1>
 <p align = "center">
- <img src = "https://streak-stats.demolab.com/?user=markusprograms&theme=dark&background=00000000&ring=79FF97&fire=79FF97&currStreakNum=79FF97&currStreakLabel=79FF97&sideNums=BBBBBB&sideLabels=BBBBBB&currStreakNum=BBBBBB">
- <img src = "https://github-readme-stats.vercel.app/api?username=markusprograms&show_icons=true&theme=dark&bg_color=00000000">
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=markusprograms&theme=dark&background=00000000&ring=79FF97&fire=79FF97&currStreakNum=79FF97&currStreakLabel=79FF97&sideNums=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=markusprograms&theme=light&background=00000000&ring=57DD75&fire=57DD75&currStreakNum=57DD75&currStreakLabel=57DD75&sideNums=000000&sideLabels=000000&currStreakNum=000000">
+  <img src="https://streak-stats.demolab.com/?user=markusprograms&theme=light&background=00000000&ring=57DD75&fire=57DD75&currStreakNum=57DD75&currStreakLabel=57DD75&sideNums=000000&sideLabels=000000&currStreakNum=000000">
+ </picture>
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=markusprograms&show_icons=true&theme=dark&bg_color=00000000">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=markusprograms&show_icons=true&theme=dark&bg_color=00000000&text_color=000000&&icon_color=57DD75&title_color=000000">
+  <img src = "https://github-readme-stats.vercel.app/api?username=markusprograms&show_icons=true&theme=dark&bg_color=00000000">
+ </picture>
 </p>
 <br>
 <p align = "center">
