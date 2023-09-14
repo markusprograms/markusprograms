@@ -13,7 +13,7 @@ This is my main account. I also have an alt account, <a href = "https://github.c
 27-04-2023 - Released <a href = "https://gihtub.com/markusprograms/GHRun">GHRun</a>, a tool to run Github repositories online. Be the first one to try it out and send me your feedback. 
 
 <h1>My website - <a href = "https://markus.dusek.eu">https://markus.dusek.eu</a></h1>
-Don't forget to visit my website, where is put my <b>free</b> <b>online</b> games. The website is only in Czech at this time but will be availabe in English soon. 
+Don't forget to visit my website, where is put my <b>free</b> <b>online</b> games. <del>The website is only in Czech at this time but will be availabe in English soon.</del> <ins>Availabe in English now!</ins>
 
 <h1>My public accounts</h1>
 <b>Khan Academy</b> - <a href = "https://khanacademy.org/profile/markusprograms/projects">https://khanacademy.org/profile/markusprograms/projects</a><br>
@@ -40,6 +40,7 @@ I program in: <br>
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=markusprograms&show_icons=true&theme=dark&bg_color=00000000&text_color=000000&&icon_color=57DD75&title_color=000000">
   <img src = "https://github-readme-stats.vercel.app/api?username=markusprograms&show_icons=true&theme=dark&bg_color=00000000">
  </picture>
+ <img src = "https://github-profile-trophy.vercel.app/?username=markusprograms&column=7&margin-w=15&margin-h=15&no-bg=true&row=1&theme=onestar">
 </p>
 <br>
 <p align = "center">
