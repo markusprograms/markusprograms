@@ -1,66 +1,31 @@
-<h1 align = "center"><i>Infinite Coder (@markusprograms)</i></h1>
-<p align = "center">
- <img src = "https://user-images.githubusercontent.com/131605571/233996110-20a5873d-2724-4f00-bdd9-1f96d7550b82.gif" width = "25%">
-</p>
-<b>Welcome to my profile</b>! My username is Infinite coder and I'm interested in coding: <br>
- • APIs<br>
- • Bots<br>
- • 3D games<br>
+<h1 align="center">Infinite Coder (@markusprograms)</h1>
+
+<div align="left">
+  <img src="https://github.com/user-attachments/assets/ea80a4ed-ea43-4be6-9c72-1e279a847560" width="25%" align="left">
+</div>
+<div align="left">
+  <p>Hi 👋 My name is <b>Infinite Coder</b>, I'm a hobbyist programmer with special interest in games, full-stack applications and automation scripts. </p>
+  <p>You can find me on various platforms under <b>@markusprograms</b>. Don't forget to visit my frequently updated <b>homepage</b>: </p>
+  <p><a href="https://markus.dusek.eu">https://markus.dusek.eu</a></p>
+  <p>To <b>contact me</b>, simply comment on one of my projects, I'll try to reply as soon as I can. </p>
+</div>
+
 <br>
-This is my main account. I also have an alt account, <a href = "https://github.com/Infinite-Coder-001">https://github.com/Infinite-Coder-001</a>. I use the account only for APIs for Khan Academy. 
 
-<h1>What's new</h1>
-27-04-2023 - Released <a href = "https://github.com/markusprograms/GHRun">GHRun</a>, a tool to run Github repositories online. Be the first one to try it out and send me your feedback. 
+<h2 align="center">Programming languages</h2>
 
-<h1>My website - <a href = "https://markus.dusek.eu">https://markus.dusek.eu</a></h1>
-Don't forget to visit my website, where is put my <b>free</b> <b>online</b> games. <del>The website is only in Czech at this time but will be availabe in English soon.</del> <ins>Availabe in English now!</ins>
+<img src="https://github.com/user-attachments/assets/53f269cb-e400-4751-b9d7-ca3ba3704a43" width="40px" height="40px" align="left">
+<p align="left"><b>Python</b> - my first programming language, deep knowledge, made several apps for Windows 10 and Raspberry PI</p>
 
-<h1>My public accounts</h1>
-<b>Khan Academy</b> - <a href = "https://khanacademy.org/profile/markusprograms/projects">https://khanacademy.org/profile/markusprograms/projects</a><br>
-<b>Replit</b> - <a href = "https://repl.it/@Markus1234">https://repl.it/@Markus1234</a><br>
-<b>Codepen</b> - <a href = "https://codepen.io/Markus1234">https://codepen.io/Markus1234</a><br>
-
-<h1>Programming languages</h1>
-I program in: <br>
- • HTML, CSS, Javascript <br>
- • Python <br>
- • PHP <br>
- • Node.js <br>
- • Arduino <br>
- 
-<h1>My Github stats</h1>
-<p align = "center">
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=markusprograms&theme=dark&background=00000000&ring=79FF97&fire=79FF97&currStreakNum=79FF97&currStreakLabel=79FF97&sideNums=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=markusprograms&theme=light&background=00000000&ring=57DD75&fire=57DD75&currStreakNum=57DD75&currStreakLabel=57DD75&sideNums=000000&sideLabels=000000&currStreakNum=000000">
-  <img src="https://streak-stats.demolab.com/?user=markusprograms&theme=light&background=00000000&ring=57DD75&fire=57DD75&currStreakNum=57DD75&currStreakLabel=57DD75&sideNums=000000&sideLabels=000000&currStreakNum=000000">
- </picture>
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=markusprograms&show_icons=true&theme=dark&bg_color=00000000">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=markusprograms&show_icons=true&theme=dark&bg_color=00000000&text_color=000000&&icon_color=57DD75&title_color=000000">
-  <img src = "https://github-readme-stats.vercel.app/api?username=markusprograms&show_icons=true&theme=dark&bg_color=00000000">
- </picture>
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=markusprograms&column=7&margin-w=15&margin-h=15&no-bg=true&row=1&theme=onestar">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=markusprograms&column=7&margin-w=15&margin-h=15&no-bg=true&row=1">
-  <img src = "https://github-profile-trophy.vercel.app/?username=markusprograms&column=7&margin-w=15&margin-h=15&no-bg=true&row=1&theme=onestar">
- </picture>
-</p>
 <br>
-<p align = "center">
- <a href="https://hits.sh/github.com/markusprograms/hits/"><img alt="Hits" src="https://hits.sh/github.com/markusprograms/hits.svg?label=Profile%20views"/></a>
-</p>
-<!--
-**markusprograms/markusprograms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img src = "https://github.com/user-attachments/assets/fa240f2c-d279-4fb5-a9d9-76ba5c5e7708" width="40px" height="40px" align="left">
+<p align="left"><b>JavaScript</b> - preffered language, deep knowledge</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<img src="https://github.com/user-attachments/assets/db420217-15d6-42de-9570-998b285031b5" width="40px" height="40px" align="left">
+<p align="left"><b>Lua</b> - basic knowledge, using mostly for ESP32</p>
+
+<br>
+
