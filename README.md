@@ -7,7 +7,7 @@
   <p>Hi 👋 My name is <b>Infinite Coder</b>, I'm a hobbyist programmer with special interest in games, full-stack applications and automation scripts. </p>
   <p>You can find me on various platforms under <b>@markusprograms</b>. Don't forget to visit my frequently updated <b>homepage</b>: </p>
   <p><a href="https://markus.dusek.eu">https://markus.dusek.eu</a></p>
-  <p>To <b>contact me</b>, simply comment on one of my projects, I'll try to reply as soon as I can. </p>
+  <p>To <b>contact me</b>, simply comment on one of my programs, I'll try to reply as soon as I can. </p>
 </div>
 
 <br>
