@@ -15,12 +15,12 @@
 <h2 align="center">Programming languages</h2>
 
 <img src="https://github.com/user-attachments/assets/53f269cb-e400-4751-b9d7-ca3ba3704a43" width="40px" height="40px" align="left">
-<p align="left"><b>Python</b> - my first programming language, <i>deep knowledge</i>, made several apps for Windows 10 and Raspberry PI</p>
+<p align="left"><b>Python</b> - my first programming language, <i>deep knowledge</i>, made several apps for Windows and Raspberry PI</p>
 
 <br>
 
 <img src="https://github.com/user-attachments/assets/2af1d73d-c7a0-41c2-b47e-30c5c1fffb95" width="40px" align="left">
-<p align="left"><b>PHP</b> - <i>deep knowledge</i>, coded several running platforms in it</p>
+<p align="left"><b>PHP</b> - <i>deep knowledge</i>, hosting several web apps</p>
 
 <br>
 
@@ -50,6 +50,6 @@
 <br>
 
 <img src="https://github.com/user-attachments/assets/c55aece4-df13-4673-9f45-a665640e5f5d" width="40px" height="40px" align="left">
-<p align="left"><b>C</b> - <i>very basic knowledge</i>, casual use</p>
+<p align="left"><b>C</b> - <i>basic knowledge</i>, made several projects for Nucleo-64</p>
 
 <br>
